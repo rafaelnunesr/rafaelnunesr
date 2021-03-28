@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm a developer trying to make the world a better place. 🖥️
+I'm an iOS developer trying to make the world a better place. 🖥️
+
+Currently I'm working on my porfolio. Check out some apps I've been working on. </br>
+  - https://github.com/rafaelnunesr/CEP_Finder
+
+How to reach me: </br>
+  - https://www.linkedin.com/in/rafaelnunesrios/
 
 <!--
 **rafaelnunesr/rafaelnunesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
