@@ -6,6 +6,10 @@ Currently I'm working on my portfolio. Check out some apps I've been working on.
   - https://github.com/rafaelnunesr/CEP_Finder
   - https://github.com/rafaelnunesr/H2O
 
+I've been studying RxSwift. </br>
+  - https://github.com/rafaelnunesr/CameraFilter
+  - https://github.com/rafaelnunesr/GoodList
+
 How to reach me: </br>
   - https://www.linkedin.com/in/rafaelnunesrios/
 
