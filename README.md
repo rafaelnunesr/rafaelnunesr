@@ -2,9 +2,6 @@
 
 I'm an iOS developer trying to make the world a better place. 🖥️
 
-Currently I'm working on my portfolio. Check out some apps I've been working on. </br>
-  - https://github.com/rafaelnunesr/ProGitHub
-
 How to reach me: </br>
   - https://www.linkedin.com/in/rafaelnunesrios/
 
